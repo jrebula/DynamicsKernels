@@ -1,0 +1,2 @@
+classdef CompassWalker < Walker
+  properties
